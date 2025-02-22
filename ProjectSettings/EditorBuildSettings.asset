@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6838dc2ea73e5ab43825198991833cb6
+  - enabled: 1
+    path: Assets/Scenes/Train.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Dallas.unity
+    guid: 9e30e3cc4dee4494f840305f788ad1ec
+  - enabled: 1
+    path: Assets/Scenes/Tokyo.unity
+    guid: e2b041e849ad42d4b894b15a66332af1
+  - enabled: 1
+    path: Assets/Scenes/Sidney.unity
+    guid: 78cd1ebc15b56614d877a288ecb89ffd
+  - enabled: 1
+    path: Assets/Scenes/Paris.unity
+    guid: 09957e39d8c95c447957a7dfb7fb95a1
+  - enabled: 1
+    path: Assets/Scenes/Monaco.unity
+    guid: 3d0b35e849e9ae94caf8a1fbb602dcf7
+  m_configObjects: {}
